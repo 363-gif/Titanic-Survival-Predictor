@@ -26,7 +26,7 @@ st.sidebar.title("About Project")
 st.sidebar.info("Yeh AI model Random Forest algorithm par mabni hai jo Titanic ke historical data se seekha gaya hai.")
 
 # Main Header
-st.title("🚢 Titanic Survival Prediction System")
+st.title("🚢 Titanic Survival Prediction System Awais")
 st.write("Data enter karein aur AI se result maloom karein.")
 st.divider()
 
